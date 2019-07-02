@@ -1,0 +1,612 @@
+index,MONTH,STATE,KILLED
+0,January,Alabama,105
+1,January,Alaska,27
+2,January,Arizona,49
+3,January,Arkansas,67
+4,January,California,332
+5,January,Colorado,64
+6,January,Connecticut,81
+7,January,Delaware,45
+8,January,District of Columbia,31
+9,January,Florida,413
+10,January,Georgia,155
+11,January,Hawaii,8
+12,January,Idaho,12
+13,January,Illinois,454
+14,January,Indiana,141
+15,January,Iowa,48
+16,January,Kansas,48
+17,January,Kentucky,95
+18,January,Louisiana,210
+19,January,Maine,10
+20,January,Maryland,125
+21,January,Massachusetts,152
+22,January,Michigan,117
+23,January,Minnesota,41
+24,January,Mississippi,93
+25,January,Missouri,123
+26,January,Montana,6
+27,January,Nebraska,33
+28,January,Nevada,47
+29,January,New Hampshire,22
+30,January,New Jersey,124
+31,January,New Mexico,30
+32,January,New York,164
+33,January,North Carolina,213
+34,January,North Dakota,11
+35,January,Ohio,239
+36,January,Oklahoma,68
+37,January,Oregon,35
+38,January,Pennsylvania,174
+39,January,Rhode Island,21
+40,January,South Carolina,127
+41,January,South Dakota,11
+42,January,Tennessee,158
+43,January,Texas,318
+44,January,Utah,15
+45,January,Vermont,4
+46,January,Virginia,172
+47,January,Washington,70
+48,January,West Virginia,34
+49,January,Wisconsin,79
+50,January,Wyoming,6
+203,February,Alabama,95
+204,February,Alaska,35
+205,February,Arizona,29
+206,February,Arkansas,55
+207,February,California,324
+208,February,Colorado,64
+209,February,Connecticut,46
+210,February,Delaware,25
+211,February,District of Columbia,39
+212,February,Florida,388
+213,February,Georgia,153
+214,February,Hawaii,2
+215,February,Idaho,9
+216,February,Illinois,364
+217,February,Indiana,112
+218,February,Iowa,56
+219,February,Kansas,44
+220,February,Kentucky,102
+221,February,Louisiana,185
+222,February,Maine,14
+223,February,Maryland,112
+224,February,Massachusetts,120
+225,February,Michigan,108
+226,February,Minnesota,54
+227,February,Mississippi,81
+228,February,Missouri,119
+229,February,Montana,10
+230,February,Nebraska,31
+231,February,Nevada,33
+232,February,New Hampshire,18
+233,February,New Jersey,87
+234,February,New Mexico,42
+235,February,New York,128
+236,February,North Carolina,151
+237,February,North Dakota,10
+238,February,Ohio,200
+239,February,Oklahoma,59
+240,February,Oregon,24
+241,February,Pennsylvania,163
+242,February,Rhode Island,12
+243,February,South Carolina,129
+244,February,South Dakota,4
+245,February,Tennessee,139
+246,February,Texas,293
+247,February,Utah,13
+248,February,Vermont,8
+249,February,Virginia,106
+250,February,Washington,44
+251,February,West Virginia,37
+252,February,Wisconsin,67
+253,February,Wyoming,11
+254,March,Alabama,121
+255,March,Alaska,21
+256,March,Arizona,34
+257,March,Arkansas,81
+258,March,California,403
+259,March,Colorado,66
+260,March,Connecticut,56
+261,March,Delaware,21
+262,March,District of Columbia,57
+263,March,Florida,425
+264,March,Georgia,155
+265,March,Hawaii,8
+266,March,Idaho,11
+267,March,Illinois,326
+268,March,Indiana,101
+269,March,Iowa,42
+270,March,Kansas,50
+271,March,Kentucky,91
+272,March,Louisiana,172
+273,March,Maine,14
+274,March,Maryland,102
+275,March,Massachusetts,118
+276,March,Michigan,141
+277,March,Minnesota,40
+278,March,Mississippi,70
+279,March,Missouri,113
+280,March,Montana,9
+281,March,Nebraska,30
+282,March,Nevada,43
+283,March,New Hampshire,15
+284,March,New Jersey,123
+285,March,New Mexico,44
+286,March,New York,147
+287,March,North Carolina,160
+288,March,North Dakota,15
+289,March,Ohio,201
+290,March,Oklahoma,81
+291,March,Oregon,31
+292,March,Pennsylvania,153
+293,March,Rhode Island,15
+294,March,South Carolina,120
+295,March,South Dakota,8
+296,March,Tennessee,185
+297,March,Texas,343
+298,March,Utah,13
+299,March,Vermont,7
+300,March,Virginia,100
+301,March,Washington,73
+302,March,West Virginia,29
+303,March,Wisconsin,178
+304,March,Wyoming,7
+305,April,Alabama,134
+306,April,Alaska,34
+307,April,Arizona,46
+308,April,Arkansas,67
+309,April,California,407
+310,April,Colorado,57
+311,April,Connecticut,61
+312,April,Delaware,46
+313,April,District of Columbia,133
+314,April,Florida,437
+315,April,Georgia,170
+316,April,Hawaii,3
+317,April,Idaho,13
+318,April,Illinois,490
+319,April,Indiana,129
+320,April,Iowa,40
+321,April,Kansas,61
+322,April,Kentucky,87
+323,April,Louisiana,181
+324,April,Maine,13
+325,April,Maryland,109
+326,April,Massachusetts,157
+327,April,Michigan,140
+328,April,Minnesota,64
+329,April,Mississippi,88
+330,April,Missouri,108
+331,April,Montana,11
+332,April,Nebraska,33
+333,April,Nevada,29
+334,April,New Hampshire,17
+335,April,New Jersey,125
+336,April,New Mexico,39
+337,April,New York,174
+338,April,North Carolina,166
+339,April,North Dakota,8
+340,April,Ohio,220
+341,April,Oklahoma,78
+342,April,Oregon,37
+343,April,Pennsylvania,156
+344,April,Rhode Island,15
+345,April,South Carolina,141
+346,April,South Dakota,16
+347,April,Tennessee,189
+348,April,Texas,297
+349,April,Utah,16
+350,April,Vermont,8
+351,April,Virginia,144
+352,April,Washington,63
+353,April,West Virginia,44
+354,April,Wisconsin,246
+355,April,Wyoming,4
+356,May,Alabama,127
+357,May,Alaska,28
+358,May,Arizona,58
+359,May,Arkansas,76
+360,May,California,376
+361,May,Colorado,84
+362,May,Connecticut,73
+363,May,Delaware,41
+364,May,District of Columbia,117
+365,May,Florida,393
+366,May,Georgia,205
+367,May,Hawaii,4
+368,May,Idaho,10
+369,May,Illinois,485
+370,May,Indiana,136
+371,May,Iowa,56
+372,May,Kansas,43
+373,May,Kentucky,84
+374,May,Louisiana,174
+375,May,Maine,19
+376,May,Maryland,118
+377,May,Massachusetts,140
+378,May,Michigan,144
+379,May,Minnesota,127
+380,May,Mississippi,70
+381,May,Missouri,179
+382,May,Montana,24
+383,May,Nebraska,46
+384,May,Nevada,51
+385,May,New Hampshire,16
+386,May,New Jersey,99
+387,May,New Mexico,51
+388,May,New York,176
+389,May,North Carolina,194
+390,May,North Dakota,10
+391,May,Ohio,236
+392,May,Oklahoma,79
+393,May,Oregon,50
+394,May,Pennsylvania,165
+395,May,Rhode Island,17
+396,May,South Carolina,149
+397,May,South Dakota,22
+398,May,Tennessee,191
+399,May,Texas,232
+400,May,Utah,18
+401,May,Vermont,8
+402,May,Virginia,142
+403,May,Washington,86
+404,May,West Virginia,34
+405,May,Wisconsin,145
+406,May,Wyoming,19
+407,June,Alabama,128
+408,June,Alaska,34
+409,June,Arizona,38
+410,June,Arkansas,63
+411,June,California,565
+412,June,Colorado,56
+413,June,Connecticut,65
+414,June,Delaware,35
+415,June,District of Columbia,117
+416,June,Florida,309
+417,June,Georgia,169
+418,June,Hawaii,5
+419,June,Idaho,8
+420,June,Illinois,491
+421,June,Indiana,128
+422,June,Iowa,47
+423,June,Kansas,36
+424,June,Kentucky,82
+425,June,Louisiana,160
+426,June,Maine,12
+427,June,Maryland,118
+428,June,Massachusetts,154
+429,June,Michigan,97
+430,June,Minnesota,58
+431,June,Mississippi,86
+432,June,Missouri,150
+433,June,Montana,19
+434,June,Nebraska,39
+435,June,Nevada,40
+436,June,New Hampshire,19
+437,June,New Jersey,118
+438,June,New Mexico,43
+439,June,New York,180
+440,June,North Carolina,146
+441,June,North Dakota,7
+442,June,Ohio,196
+443,June,Oklahoma,69
+444,June,Oregon,35
+445,June,Pennsylvania,173
+446,June,Rhode Island,25
+447,June,South Carolina,141
+448,June,South Dakota,28
+449,June,Tennessee,144
+450,June,Texas,161
+451,June,Utah,14
+452,June,Vermont,6
+453,June,Virginia,117
+454,June,Washington,55
+455,June,West Virginia,25
+456,June,Wisconsin,98
+457,June,Wyoming,16
+458,July,Alabama,126
+459,July,Alaska,30
+460,July,Arizona,68
+461,July,Arkansas,71
+462,July,California,502
+463,July,Colorado,78
+464,July,Connecticut,67
+465,July,Delaware,31
+466,July,District of Columbia,148
+467,July,Florida,352
+468,July,Georgia,198
+469,July,Hawaii,12
+470,July,Idaho,14
+471,July,Illinois,492
+472,July,Indiana,119
+473,July,Iowa,62
+474,July,Kansas,49
+475,July,Kentucky,73
+476,July,Louisiana,144
+477,July,Maine,18
+478,July,Maryland,150
+479,July,Massachusetts,147
+480,July,Michigan,129
+481,July,Minnesota,76
+482,July,Mississippi,93
+483,July,Missouri,150
+484,July,Montana,15
+485,July,Nebraska,43
+486,July,Nevada,34
+487,July,New Hampshire,11
+488,July,New Jersey,127
+489,July,New Mexico,48
+490,July,New York,197
+491,July,North Carolina,156
+492,July,North Dakota,12
+493,July,Ohio,228
+494,July,Oklahoma,70
+495,July,Oregon,35
+496,July,Pennsylvania,171
+497,July,Rhode Island,26
+498,July,South Carolina,166
+499,July,South Dakota,26
+500,July,Tennessee,164
+501,July,Texas,229
+502,July,Utah,26
+503,July,Vermont,7
+504,July,Virginia,123
+505,July,Washington,61
+506,July,West Virginia,24
+507,July,Wisconsin,93
+508,July,Wyoming,5
+509,August,Alabama,143
+510,August,Alaska,15
+511,August,Arizona,48
+512,August,Arkansas,74
+513,August,California,341
+514,August,Colorado,65
+515,August,Connecticut,67
+516,August,Delaware,21
+517,August,District of Columbia,126
+518,August,Florida,273
+519,August,Georgia,182
+520,August,Hawaii,4
+521,August,Idaho,9
+522,August,Illinois,435
+523,August,Indiana,124
+524,August,Iowa,51
+525,August,Kansas,50
+526,August,Kentucky,74
+527,August,Louisiana,130
+528,August,Maine,16
+529,August,Maryland,137
+530,August,Massachusetts,167
+531,August,Michigan,89
+532,August,Minnesota,64
+533,August,Mississippi,95
+534,August,Missouri,161
+535,August,Montana,14
+536,August,Nebraska,38
+537,August,Nevada,32
+538,August,New Hampshire,19
+539,August,New Jersey,117
+540,August,New Mexico,33
+541,August,New York,175
+542,August,North Carolina,166
+543,August,North Dakota,14
+544,August,Ohio,221
+545,August,Oklahoma,51
+546,August,Oregon,36
+547,August,Pennsylvania,177
+548,August,Rhode Island,16
+549,August,South Carolina,149
+550,August,South Dakota,32
+551,August,Tennessee,148
+552,August,Texas,182
+553,August,Utah,25
+554,August,Vermont,3
+555,August,Virginia,113
+556,August,Washington,67
+557,August,West Virginia,32
+558,August,Wisconsin,88
+559,August,Wyoming,7
+560,September,Alabama,122
+561,September,Alaska,12
+562,September,Arizona,45
+563,September,Arkansas,47
+564,September,California,284
+565,September,Colorado,58
+566,September,Connecticut,62
+567,September,Delaware,29
+568,September,District of Columbia,68
+569,September,Florida,184
+570,September,Georgia,120
+571,September,Hawaii,3
+572,September,Idaho,14
+573,September,Illinois,366
+574,September,Indiana,110
+575,September,Iowa,43
+576,September,Kansas,51
+577,September,Kentucky,55
+578,September,Louisiana,121
+579,September,Maine,21
+580,September,Maryland,150
+581,September,Massachusetts,125
+582,September,Michigan,119
+583,September,Minnesota,56
+584,September,Mississippi,76
+585,September,Missouri,128
+586,September,Montana,12
+587,September,Nebraska,34
+588,September,Nevada,21
+589,September,New Hampshire,18
+590,September,New Jersey,105
+591,September,New Mexico,21
+592,September,New York,145
+593,September,North Carolina,173
+594,September,North Dakota,14
+595,September,Ohio,207
+596,September,Oklahoma,72
+597,September,Oregon,40
+598,September,Pennsylvania,180
+599,September,Rhode Island,11
+600,September,South Carolina,153
+601,September,South Dakota,17
+602,September,Tennessee,110
+603,September,Texas,166
+604,September,Utah,19
+605,September,Vermont,4
+606,September,Virginia,102
+607,September,Washington,67
+608,September,West Virginia,25
+609,September,Wisconsin,87
+610,September,Wyoming,4
+51,October,Alabama,120
+52,October,Alaska,16
+53,October,Arizona,58
+54,October,Arkansas,72
+55,October,California,301
+56,October,Colorado,57
+57,October,Connecticut,67
+58,October,Delaware,30
+59,October,District of Columbia,63
+60,October,Florida,306
+61,October,Georgia,182
+62,October,Hawaii,4
+63,October,Idaho,18
+64,October,Illinois,371
+65,October,Indiana,116
+66,October,Iowa,45
+67,October,Kansas,31
+68,October,Kentucky,107
+69,October,Louisiana,164
+70,October,Maine,23
+71,October,Maryland,160
+72,October,Massachusetts,130
+73,October,Michigan,92
+74,October,Minnesota,44
+75,October,Mississippi,83
+76,October,Missouri,165
+77,October,Montana,16
+78,October,Nebraska,24
+79,October,Nevada,24
+80,October,New Hampshire,12
+81,October,New Jersey,97
+82,October,New Mexico,34
+83,October,New York,189
+84,October,North Carolina,180
+85,October,North Dakota,8
+86,October,Ohio,244
+87,October,Oklahoma,62
+88,October,Oregon,54
+89,October,Pennsylvania,199
+90,October,Rhode Island,17
+91,October,South Carolina,140
+92,October,South Dakota,14
+93,October,Tennessee,139
+94,October,Texas,197
+95,October,Utah,20
+96,October,Vermont,7
+97,October,Virginia,120
+98,October,Washington,85
+99,October,West Virginia,32
+100,October,Wisconsin,100
+101,October,Wyoming,4
+102,November,Alabama,127
+103,November,Alaska,20
+104,November,Arizona,51
+105,November,Arkansas,67
+106,November,California,305
+107,November,Colorado,78
+108,November,Connecticut,39
+109,November,Delaware,23
+110,November,District of Columbia,146
+111,November,Florida,274
+112,November,Georgia,139
+113,November,Hawaii,4
+114,November,Idaho,16
+115,November,Illinois,310
+116,November,Indiana,111
+117,November,Iowa,42
+118,November,Kansas,51
+119,November,Kentucky,94
+120,November,Louisiana,165
+121,November,Maine,22
+122,November,Maryland,117
+123,November,Massachusetts,147
+124,November,Michigan,90
+125,November,Minnesota,58
+126,November,Mississippi,67
+127,November,Missouri,163
+128,November,Montana,14
+129,November,Nebraska,38
+130,November,Nevada,36
+131,November,New Hampshire,19
+132,November,New Jersey,91
+133,November,New Mexico,24
+134,November,New York,140
+135,November,North Carolina,208
+136,November,North Dakota,16
+137,November,Ohio,213
+138,November,Oklahoma,63
+139,November,Oregon,63
+140,November,Pennsylvania,180
+141,November,Rhode Island,9
+142,November,South Carolina,129
+143,November,South Dakota,9
+144,November,Tennessee,142
+145,November,Texas,197
+146,November,Utah,24
+147,November,Vermont,6
+148,November,Virginia,93
+149,November,Washington,80
+150,November,West Virginia,28
+151,November,Wisconsin,95
+152,November,Wyoming,5
+153,December,Alabama,109
+154,December,Alaska,31
+155,December,Arizona,49
+156,December,Arkansas,59
+157,December,California,334
+158,December,Colorado,58
+159,December,Connecticut,65
+160,December,Delaware,27
+161,December,District of Columbia,77
+162,December,Florida,287
+163,December,Georgia,122
+164,December,Hawaii,8
+165,December,Idaho,20
+166,December,Illinois,313
+167,December,Indiana,100
+168,December,Iowa,35
+169,December,Kansas,46
+170,December,Kentucky,72
+171,December,Louisiana,125
+172,December,Maine,19
+173,December,Maryland,146
+174,December,Massachusetts,152
+175,December,Michigan,66
+176,December,Minnesota,61
+177,December,Mississippi,97
+178,December,Missouri,135
+179,December,Montana,13
+180,December,Nebraska,37
+181,December,Nevada,36
+182,December,New Hampshire,12
+183,December,New Jersey,89
+184,December,New Mexico,27
+185,December,New York,157
+186,December,North Carolina,166
+187,December,North Dakota,7
+188,December,Ohio,221
+189,December,Oklahoma,80
+190,December,Oregon,56
+191,December,Pennsylvania,207
+192,December,Rhode Island,5
+193,December,South Carolina,134
+194,December,South Dakota,7
+195,December,Tennessee,134
+196,December,Texas,184
+197,December,Utah,14
+198,December,Virginia,112
+199,December,Washington,102
+200,December,West Virginia,33
+201,December,Wisconsin,65
+202,December,Wyoming,3
