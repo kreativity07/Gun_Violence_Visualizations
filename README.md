@@ -27,14 +27,12 @@ Please run below to view the output:
 
 ### Open Terminal 1:
 - cd to ./GV_Project_Final
-- source activate <conda env>
 - python -m http.server
 - open: localhost:8000
 - This opens Main Page.
 
 ### Open Terminal 2:
 - cd to ./GV_Project_Final
-- source activate <conda env>
 - python app.py
 - open localhost:5000
 - This opens Leaflet Stack Marker Map.
